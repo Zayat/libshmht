@@ -227,8 +227,13 @@ libtool
 .deps
 stamp-h1
 Makefile
-
-
+*.a
+*.la
+*.lai
+*.so
+*.so.*
+*.lo
+*.o
 Makefile.in
 config.guess
 config.sub

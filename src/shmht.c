@@ -248,7 +248,7 @@ locate_free_bucket (struct shmht *h)
 
 /*****************************************************************************/
 int
-shmht_insert (struct shmht *h, void *k, unsigned int key_size,
+shmht_insert (struct shmht *h, void *k, size_t key_size,
 				  void *v, size_t value_size)
 {
 
