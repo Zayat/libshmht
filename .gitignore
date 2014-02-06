@@ -213,3 +213,23 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+
+
+# autoconf
+configure
+depcomp
+ltmain.sh
+config.h
+config.status
+libtool
+/m4/
+.deps
+stamp-h1
+Makefile
+
+
+Makefile.in
+config.guess
+config.sub
+aclocal.m4
